@@ -35,7 +35,6 @@ This repository contains some of our **public** security audit reports
 |[Nftania V5 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NftaniaV5_Security_Audit_Report.pdf)|
 |[Niftopia Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Niftopia_Security_Audit_Report.pdf)|
 |[OkraTech Token Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Okratech_Security_Audit_Report.pdf)|
-|
 |[OptionBlitz Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/OptionBlitz_Security_Audit_Report.pdf)|
 |[Piston Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Piston_Security_Audit_Report.pdf)|
 |[PXP GateWay Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/PXP_GateWay_Security_Audit_Report.pdf)|
