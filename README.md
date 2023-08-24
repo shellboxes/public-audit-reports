@@ -16,6 +16,7 @@ This repository contains some of our **public** security audit reports
 | [DefiBulls The Ranch Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefiBulls_The_Ranch_Security_Audit_Report.pdf) |
 |[DefySwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefySwap_Security_Audit_Report.pdf)|
 |[DiamondSwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DiamondSwap_Security_Audit_Report.pdf)|
+|[Giant Mammoth Chain Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Mmtchain_Security_Audit_Report.pdf)|
 |[Gnars V2 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/GnarsV2_Security_Audit_Report.pdf)|
 |[HedgePie Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/HedgePie_Security_Audit_Report.pdf)|
 |[HedgePie V2 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/HedgePie_V2_Security_Audit_Report.pdf)|
