@@ -7,6 +7,7 @@ This repository contains some of our **public** security audit reports
 | [ApyFlow Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/ApyFlow_Security_Audit_Report.pdf)|
 | [ApyFlow V2 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Apyflow_V2_Security_Audit_Report.pdf) |
 | [AtomPad Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Atompad_Security_Audit_Report.pdf) |
+| [AutoAirdrop NFT Minter Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/AutoAirdrop_NFT_Minter_Security_Audit_Report.pdf) |
 | [Bank Of Chain Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/BankOfChain_Security_Audit_Report.pdf) |
 | [Block-Rank Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Block_Rank_Security_Audit_Report.pdf) |
 | [CAP V4 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/CAP_Security_Audit_Report.pdf) |
