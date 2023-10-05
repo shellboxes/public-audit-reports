@@ -14,6 +14,7 @@ This repository contains some of our **public** security audit reports
 | [CimpleDAO Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/CimpleDAO_Security_Audit_Report.pdf)  |
 | [Clean DeFI Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Cleandefi_Security_Audit_Report.pdf)|
 | [Consilience Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Consilience_Security_Audit_Report.pdf) |
+| [Crescite Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crescite_Staking_Security_Audit_Report.pdf) |
 | [Crowdswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Security_Audit_Report.pdf) |
 | [DefiBulls The Ranch Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefiBulls_The_Ranch_Security_Audit_Report.pdf) |
 |[DefySwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefySwap_Security_Audit_Report.pdf)|
