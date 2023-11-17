@@ -27,6 +27,7 @@ This repository contains some of our **public** security audit reports
 |[HedgePie V2 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/HedgePie_V2_Security_Audit_Report.pdf)|
 |[HuhToken Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Huhtoken_Security_Audit_Report.pdf)|
 |[Intelly Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Intelly_Security_Audit_Report.pdf)|
+|[Kambria DAOs Dev Payment Module Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kambria_DAOs_Dev_Payment_Module_Security_Audit_Report.pdf)|
 |[Kambria Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kambria_Security_Audit_Report.pdf)|
 |[Kambria GT Sync Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kambria_GT_Sync_Security_Audit_Report.pdf)|
 |[Kambria Vesting Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kambria_Vesting_Security_Audit_Report.pdf)|
