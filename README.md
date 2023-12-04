@@ -44,7 +44,7 @@ This repository contains some of our **public** security audit reports
 |[OkraTech Token Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Okratech_Security_Audit_Report.pdf)|
 |[OptionBlitz Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/OptionBlitz_Security_Audit_Report.pdf)|
 |[Piston Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Piston_Security_Audit_Report.pdf)|
-|[pSeudo Ethereum Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/pSeudo_Ethereum_Security_Audit_Report)|
+|[pSeudo Ethereum Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/pSeudo_Ethereum_Security_Audit_Report.pdf)|
 |[pStake_Finance Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/pStake_Security_Audit_Report.pdf)|
 |[PXP GateWay Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/PXP_GateWay_Security_Audit_Report.pdf)|
 |[PXP Marketplace Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/PXP_MarketPlace_Security_Audit_Report.pdf)|
