@@ -58,4 +58,5 @@ This repository contains some of our **public** security audit reports
 |[Unicrypt Marketplace Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Unicrypt_Marketplace_Security_Audit_Report.pdf)|
 |[Velvet Capital Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Velvet_Capital_Security_Audit_Report.pdf)|
 |[Velvet Capital V2 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Velvet_Capital_V2_Security_Audit_Report.pdf)|
+|[Velvet Capital V2 Arbitrum Version Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Velvet_Capital_V2_Arbitrum_Security_Audit_Report.pdf)|
 |[VXL Dollar Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/VXL_DOLLAR_Security_Audit_Report.pdf)|
