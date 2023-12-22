@@ -36,6 +36,7 @@ This repository contains some of our **public** security audit reports
 |[Kommunitas Staking V3 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Staking_V3_Security_Audit_Report.pdf)|
 |[Metavill Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Metavill_Security_Audit_Report.pdf)|
 |[Monion Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Monion_Security_Audit_Report.pdf)|
+|[Moonstake Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Moonstake_Security_Audit_Report.pdf)|
 |[Morphswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Morphswap_Security_Audit_Report.pdf)|
 |[Naos Finance Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NAOS_Finance_Security_Audit_Report.pdf)|
 |[NFHeroes Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NFHeros_Security_Audit_Report.pdf)|
