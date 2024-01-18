@@ -51,6 +51,7 @@ This repository contains some of our **public** security audit reports
 |[PXP Marketplace Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/PXP_MarketPlace_Security_Audit_Report.pdf)|
 |[Secur3 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Secur3_Security_Audit_Report.pdf)|
 |[Solav_Token Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Solav_Security_Audit_Report.pdf)|
+|[StakeStar Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/StakeStar_Security_Audit_Report.pdf)|
 |[StartFi Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/StartFI_Token_Security_Audit_Report.pdf)|
 |[Sukiyaki Finance Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Sukiyaki_Finance_Security_Audit_Report.pdf)|
 |[TribeX Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/TribeX_Security_Audit_Report.pdf)|
