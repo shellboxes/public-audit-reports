@@ -17,6 +17,7 @@ This repository contains some of our **public** security audit reports
 | [Consilience Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Consilience_Security_Audit_Report.pdf) |
 | [Crescite Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crescite_Staking_Security_Audit_Report.pdf) |
 | [Crescite Token Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crescite_Token_Security_Audit_Report.pdf) |
+| [Crowdswap Lock Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Lock_Staking_Security_Audit_Report.pdf) |
 | [Crowdswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Security_Audit_Report.pdf) |
 | [DefiBulls The Ranch Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefiBulls_The_Ranch_Security_Audit_Report.pdf) |
 |[DefySwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefySwap_Security_Audit_Report.pdf)|
@@ -40,6 +41,7 @@ This repository contains some of our **public** security audit reports
 |[Moonstake Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Moonstake_Security_Audit_Report.pdf)|
 |[Morphswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Morphswap_Security_Audit_Report.pdf)|
 |[Naos Finance Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NAOS_Finance_Security_Audit_Report.pdf)|
+|[Nexus Network Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Nexus_Network_Security_Audit_Report.pdf)|
 |[NFHeroes Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NFHeros_Security_Audit_Report.pdf)|
 |[Nftania V5 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NftaniaV5_Security_Audit_Report.pdf)|
 |[Niftopia Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Niftopia_Security_Audit_Report.pdf)|
