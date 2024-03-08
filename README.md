@@ -35,6 +35,7 @@ This repository contains some of our **public** security audit reports
 |[Kambria Vesting Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kambria_Vesting_Security_Audit_Report.pdf)|
 |[Kommunitas Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Staking_Security_Audit_Report.pdf)|
 |[Kommunitas Launchpad Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Launchpad_Security_Audit_Report.pdf)|
+|[Kommunitas LP Farm Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_LP_Farm_Security_Audit_Report.pdf)|
 |[Kommunitas Staking V3 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Staking_V3_Security_Audit_Report.pdf)|
 |[Metavill Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Metavill_Security_Audit_Report.pdf)|
 |[Monion Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Monion_Security_Audit_Report.pdf)|
