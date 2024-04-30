@@ -19,6 +19,8 @@ This repository contains some of our **public** security audit reports
 | [Crescite Token Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crescite_Token_Security_Audit_Report.pdf) |
 | [Crowdswap Lock Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Lock_Staking_Security_Audit_Report.pdf) |
 | [Crowdswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Security_Audit_Report.pdf) |
+| [Crowdswap ETF Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_ETF_Security_Audit_Report.pdf) |
+| [Crowdswap V3 Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_V3_Security_Audit_Report.pdf) |
 | [DefiBulls The Ranch Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefiBulls_The_Ranch_Security_Audit_Report.pdf) |
 |[DefySwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefySwap_Security_Audit_Report.pdf)|
 |[DiamondSwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DiamondSwap_Security_Audit_Report.pdf)|
@@ -37,6 +39,7 @@ This repository contains some of our **public** security audit reports
 |[Kommunitas Launchpad Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Launchpad_Security_Audit_Report.pdf)|
 |[Kommunitas LP Farm Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_LP_Farm_Security_Audit_Report.pdf)|
 |[Kommunitas Staking V3 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Staking_V3_Security_Audit_Report.pdf)|
+|[Kommunitas Bridge Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Bridge_Security_Audit_Report.pdf)|
 |[Metavill Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Metavill_Security_Audit_Report.pdf)|
 |[Monion Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Monion_Security_Audit_Report.pdf)|
 |[Moonstake Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Moonstake_Security_Audit_Report.pdf)|
