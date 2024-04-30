@@ -20,8 +20,8 @@ This repository contains some of our **public** security audit reports
 | [Crowdswap Lock Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Lock_Staking_Security_Audit_Report.pdf) |
 | [Crowdswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Security_Audit_Report.pdf) |
 | [Crowdswap ETF Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_ETF_Security_Audit_Report.pdf) |
-| [Crowdswap V3 Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_V3_Security_Audit_Report.pdf) |
-| [DefiBulls The Ranch Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefiBulls_The_Ranch_Security_Audit_Report.pdf) |
+| [Crowdswap V3 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_V3_Security_Audit_Report.pdf) |
+| [DefiBulls The Ranch Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefiBulls_The_Ranch_Security_Audit_Report.pdf) |
 |[DefySwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DefySwap_Security_Audit_Report.pdf)|
 |[DiamondSwap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/DiamondSwap_Security_Audit_Report.pdf)|
 |[Eloin Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Eloin_Security_Audit_Report.pdf)|
