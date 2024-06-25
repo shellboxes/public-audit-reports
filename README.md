@@ -17,6 +17,7 @@ This repository contains some of our **public** security audit reports
 | [Consilience Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Consilience_Security_Audit_Report.pdf) |
 | [Crescite Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crescite_Staking_Security_Audit_Report.pdf) |
 | [Crescite Token Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crescite_Token_Security_Audit_Report.pdf) |
+| [Creo Launchpad Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Creo_Launchpad_Staking_Security_Audit_Report.pdf) |
 | [Crowdswap Lock Staking Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Lock_Staking_Security_Audit_Report.pdf) |
 | [Crowdswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_Security_Audit_Report.pdf) |
 | [Crowdswap ETF Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Crowdswap_ETF_Security_Audit_Report.pdf) |
