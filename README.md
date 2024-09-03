@@ -41,6 +41,7 @@ This repository contains some of our **public** security audit reports
 |[Kommunitas LP Farm Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_LP_Farm_Security_Audit_Report.pdf)|
 |[Kommunitas Staking V3 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Staking_V3_Security_Audit_Report.pdf)|
 |[Kommunitas Bridge Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Kommunitas_Bridge_Security_Audit_Report.pdf)|
+|[Kommunitas Official Telegram Bot Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Telegram_Bot_Wallet_Security_Audit_Report.pdf)|
 |[Metavill Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Metavill_Security_Audit_Report.pdf)|
 |[Monion Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Monion_Security_Audit_Report.pdf)|
 |[Moonstake Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Moonstake_Security_Audit_Report.pdf)|
