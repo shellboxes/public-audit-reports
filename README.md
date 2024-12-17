@@ -10,6 +10,7 @@ This repository contains some of our **public** security audit reports
 | [AutoAirdrop NFT Minter Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/AutoAirdrop_NFT_Minter_Security_Audit_Report.pdf) |
 | [Bank Of Chain Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/BankOfChain_Security_Audit_Report.pdf) |
 | [Block-Rank Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Block_Rank_Security_Audit_Report.pdf) |
+| [Bullshot Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Bullshot_Security_Audit_Report.pdf) |
 | [CAP V4 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/CAP_Security_Audit_Report.pdf) |
 | [CerusToken Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/CerusToken_Security_Audit_Report.pdf) |
 | [CimpleDAO Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/CimpleDAO_Security_Audit_Report.pdf)  |
