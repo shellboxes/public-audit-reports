@@ -49,6 +49,7 @@ This repository contains some of our **public** security audit reports
 |[Morphswap Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Morphswap_Security_Audit_Report.pdf)|
 |[Naos Finance Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NAOS_Finance_Security_Audit_Report.pdf)|
 |[Nexus Network Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Nexus_Network_Security_Audit_Report.pdf)|
+|[Native Yield Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NativeYield_Security_Audit_Report.pdf)|
 |[NFHeroes Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NFHeros_Security_Audit_Report.pdf)|
 |[Nftania V5 Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/NftaniaV5_Security_Audit_Report.pdf)|
 |[Niftopia Public Audit Report](https://github.com/shellboxes/public-audit-reports/blob/main/reports/Niftopia_Security_Audit_Report.pdf)|
